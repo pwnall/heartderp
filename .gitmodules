@@ -1,0 +1,6 @@
+[submodule "third_party/MPQExtractor"]
+	path = third_party/MPQExtractor
+	url = https://github.com/Kanma/MPQExtractor.git
+[submodule "third_party/disunity"]
+	path = third_party/disunity
+	url = https://github.com/ata4/disunity.git

@@ -1,0 +1,9 @@
+# OSX
+.DS_Store
+
+# Vim.
+*.sw*
+
+# Build products.
+bin/
+build/
